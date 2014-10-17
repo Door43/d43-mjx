@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mjx:home|Door43 (mjx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mjx|d43-mjx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mjx/archive/master.zip|d43-mjx.zip]]
+
+**Recent Changes**
+{{changes>ns = mjx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mjx|Ethnologue data]]
+
